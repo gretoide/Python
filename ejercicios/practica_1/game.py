@@ -15,15 +15,7 @@ for i in range(0, times):
     number_2 = randrange(10)
     operator = choice(operators)
     if(operator == "/")and(number_2 == 0):
-<<<<<<< HEAD
-        print("No")
-=======
-<<<<<<< HEAD
         print("No se puede calcular por cero, se calculará un nuevo número.")
-=======
-        print("No")
->>>>>>> d2ffa7850177c4bb68ffbb947053adce6dd4a02f
->>>>>>> 2a25ade (Update)
         number_2 = randrange(1,10)
     match operator:
         case "+":
