@@ -1,6 +1,22 @@
 from text_7 import TEXT as text
 import string
 
+def count_letters():
+    """
+    Contamos la cantidad de letras mayúsculas, minúsculas y no caracteres
+    """
+    words = list(text)
+    cant = [0,0,0]
+    for item in words:
+        if item in string.ascii_lowercase:
+            cant[0] += 1
+        elif item in string.ascii_uppercase:
+            cant[1] += 1
+        else:
+            cant[2] += 1
+
+    print(f'Minusculas = {cant[0]}, mayusculas = {cant[1]}, otros = {cant[2]}')
+
 def identify_letters():
     """
     Dado un String, identifica letras mayusculas, minusculas y caracteres no letras
@@ -19,3 +35,4 @@ def count_words():
 
 identify_letters()
 count_words()
+count_letters()
