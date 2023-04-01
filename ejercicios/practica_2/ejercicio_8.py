@@ -12,7 +12,7 @@ def is_heterogram():
     word = input('Ingrese una palabra: ')
     letters = set(word)
     if(len(word) == len(letters)):
-        print(f'Es un heterograma')
+        print('Es un heterograma')
     else:
         print('No es un heterograma')
 
