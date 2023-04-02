@@ -10,10 +10,14 @@ def is_heterogram():
     Nos indica si un texto es un heterograma (no tiene letras repetidas) o no
     """
     word = input('Ingrese una palabra: ')
+    word = list(word.replace(" ",""))
+    print(word)
     letters = set(word)
+    print(letters)
     if(len(word) == len(letters)):
         print('Es un heterograma')
     else:
         print('No es un heterograma')
+
 
 is_heterogram()
