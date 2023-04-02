@@ -3,25 +3,18 @@
 # de valores del juego Scrabble:
 
 def calculator():
-    scrabble = ["AEIOULNRST","DG","BCMP","FHVWY","K","JX","QZ"]
+    scrabble = {"A":1, "E":1, "I":1, "O":1, "U":1, "L":1, "N":1, "R":1, "S":1, "T":1,
+            "D":2, "G":2,
+            "B":3, "C":3, "M":3, "P":3,
+            "F":4, "H":4, "V":4, "W":4, "Y":4,
+            "K":5,
+            "J":8, "X":8,
+            "Q":10, "Z":10}
     points = 0
     word = input("Juegue una palabra: ")
-    word_items =list(word.upper())
+    word_items =list(word)
     for letter in word_items:
-        if letter in scrabble[0]:
-            points += 1
-        elif letter in scrabble[1]:
-            points += 2
-        elif letter in scrabble[2]:
-            points +=  3
-        elif letter in scrabble[3]:
-            points +=  4
-        elif letter in scrabble[4]:
-            points +=  5
-        elif letter in scrabble[5]:
-            points +=  8
-        else:
-            points += 10
+        points += scrabble.get(letter.upper(),0)
     print(f'Palabra = {word}, Puntos = {points}')
 
 calculator()
