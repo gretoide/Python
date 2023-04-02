@@ -1,6 +1,10 @@
 from text_7 import TEXT as text
 import string
 
+def count_letters():
+    words = text.split()
+    print(words)
+
 def identify_letters():
     """
     Dado un String, identifica letras mayusculas, minusculas y caracteres no letras
@@ -19,3 +23,4 @@ def count_words():
 
 identify_letters()
 count_words()
+count_letters()
