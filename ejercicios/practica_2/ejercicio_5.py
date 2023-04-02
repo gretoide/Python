@@ -6,8 +6,9 @@ def string_processing():
     """
     new_string = input('Ingrese un String: ')
     other_string = input('Ingrese otro String: ')
+    new_string = (new_string.lower()).split()
     # Pasamos a minúsuculas para que encuentre si o si
-    print(f'Palabra = {other_string}, apariciones = {new_string.lower().count(other_string.lower())}')
+    print(f'Palabra = {other_string}, apariciones = {new_string.count(other_string.lower())}')
 
 
 string_processing()
