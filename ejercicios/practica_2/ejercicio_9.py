@@ -12,9 +12,8 @@ def calculator():
             "Q":10, "Z":10}
     points = 0
     word = input("Juegue una palabra: ")
-    word_items =list(word)
-    for letter in word_items:
-        points += scrabble.get(letter.upper(),0)
+    for letter in word:
+        points += scrabble.get(letter.upper())
     print(f'Palabra = {word}, Puntos = {points}')
 
 calculator()
