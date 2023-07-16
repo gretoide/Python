@@ -1,10 +1,19 @@
-
-<div align = "center"><img src = "https://custom-doodle.com/wp-content/uploads/doodle/bongo-cat-pixel/bongo-cat-pixel-doodle.gif" width = "300px" /></div>
-
-# Alumno :memo:
+# Seminario de Lenguajes - Python
+## Alumno :memo:
 **Nombre:** Greta Piacentini <br>
 **Legajo:** 19045/2
 
-## Práctica 1 :sparkles:
-* [Ejercicio 1](https://github.com/gretoide/SI207-Seminario-Python/blob/master/ejercicios/practica_1/game.py)
-  
+## Trabajo integrador
+- [Grupo30]()
+
+## Ejercitación & Python Plus
+- [Ejercicios 1]()
+- [Ejercicios 2]()
+- [Python Plus |]()
+- [Python Plus ||]()
+- [Python Plus |||]()
+
+ ### [![UNLP](https://img.shields.io/badge/UNLP-Universidad%20Nacional%20de%20La%20Plata-blue)](https://www.unlp.edu.ar/)
+ 
+
+
