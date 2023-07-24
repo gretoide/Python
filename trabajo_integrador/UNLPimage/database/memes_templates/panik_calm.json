@@ -1,0 +1,26 @@
+[
+    {
+        "image": "panik_calm.png",
+        "name": "Panico/Calma (3 Textos)",
+        "text_boxes": [
+            {
+                "top_left_x": 12,
+                "top_left_y": 10,
+                "bottom_right_x": 226,
+                "bottom_right_y": 159
+            },
+            {
+                "top_left_x": 11,
+                "top_left_y": 178,
+                "bottom_right_x": 225,
+                "bottom_right_y": 326
+            },
+            {
+                "top_left_x": 13,
+                "top_left_y": 347,
+                "bottom_right_x": 228,
+                "bottom_right_y": 491
+            }
+        ]
+    }
+]

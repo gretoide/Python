@@ -1,0 +1,51 @@
+HORA;ALIAS;OPERACION;VALORES;TEXTOS
+202306090338;Gretoide;Se registro en la app;;
+202306090339;Agus;Se registro en la app;;
+202306090339;Adri;Se registro en la app;;
+202306090339;Emma;Se registro en la app;;
+202306090339;Clem;Se registro en la app;;
+202306090347;Gretoide;Modifico su perfil;;
+202306090347;Gretoide;Modificar directorio de imagenes;;
+202306090347;Gretoide;Modificar directorio de collages;;
+202306090347;Gretoide;Modificar directorio de memes;;
+202306090347;Gretoide;Modificar directorio de imagenes;;
+202306090347;Gretoide;Modificar directorio de imagenes;;
+202306090347;Gretoide;Modificar directorio de collages;;
+202306090347;Gretoide;Modificar directorio de collages;;
+202306090347;Gretoide;Modificar directorio de memes;;
+202306090347;Gretoide;Modificar directorio de collages;;
+202306090347;Gretoide;Modificar directorio de imagenes;;
+202306090348;Agus;Modifico su perfil;;
+202306090348;Agus;Modificar directorio de imagenes;;
+202306090348;Agus;Modificar directorio de imagenes;;
+202306090348;Agus;Modificar directorio de collages;;
+202306090348;Agus;Modificar directorio de collages;;
+202306090348;Agus;Modificar directorio de memes;;
+202306090348;Agus;Modificar directorio de memes;;
+202306121058;Gretoide;Nueva imagen etiquetada;gato (1).png;"['gatito lindo', 'peludito, perita blanca']"
+202306121059;Gretoide;Nueva imagen etiquetada;gato (2).png;"['gatito bostezando', 'dientes, peludito']"
+202306121100;Agus;Nueva imagen etiquetada;gato (3).png;"['gatito blanco y negro', 'peludito, BIGOTES']"
+202306121100;Agus;Nueva imagen etiquetada;deporte (3).png;"['SURF', 'ola, MAR, deporte']"
+202306121101;Agus;Nueva imagen etiquetada;paisaje (4).png;"['Calzada de Los Gigantes', 'paisaje, verde, fresco']"
+202306121102;Agus;Nueva imagen etiquetada;deporte (2).png;"['bailarina', 'danza, deporte, atardecer']"
+202306121103;Agus;Nueva imagen etiquetada;deporte (5).png;"['bailarina', 'danza, deporte, tutu']"
+202306121103;Emma;Nueva imagen etiquetada;deporte (1).png;"['basquet', 'deporte, mar, jugadores']"
+202306121104;Emma;Nueva imagen etiquetada;paisaje (2).png;"['Barrancos', 'mar, barranco, sol, verde']"
+202306121105;Adri;Nueva imagen etiquetada;gato (5).png;"['gatito durmiendo', 'peludito, blanco y negro, verde, duerme']"
+202306121106;Adri;Nueva imagen etiquetada;paisaje (3).png;"['llanura', 'verde, campo, paisaje']"
+202306121109;Emma;Nueva imagen etiquetada;paisaje (5).png;"['paisaje', 'paisaje, verde, arcoiris']"
+202306121128;Emma;Nueva imagen etiquetada;paisaje (1).png;"['castillo', 'mar, verde, castillo']"
+202306132321;Gretoide;Modificacion de imagen previamente clasificada;deporte (5).png;['bailarina', 'danza, deporte, tutu, vestido']
+202306132322;Gretoide;Modificacion de imagen previamente clasificada;gato (2).png;['gatito bostezando', 'dientes, peludito,chikito']
+202306132324;Gretoide;Modifico su perfil;;
+202306141305;Adri;Nuevo Collage;['gato (2).png', 'paisaje (3).png', 'gato (3).png', 'gato (3).png'];Michines
+202306141306;Adri;Nuevo Collage;['gato (2).png', 'paisaje (3).png', 'gato (3).png', 'gato (3).png', 'paisaje (2).png', 'paisaje (5).png', 'paisaje (3).png', 'paisaje (2).png'];Paisajes
+202306141314;Adri;Nuevo Meme;Rezando (1 Texto);Aprobar Python
+202306141315;Adri;Nuevo Meme;Otra opcion (2 Textos);Python, FOD
+202307171720;Prueba;Se registro en la app;;
+202307171720;Prueba;Modifico su perfil;;
+202307171720;Prueba;Nueva imagen etiquetada;deporte (4).png;['Paracaidas', 'Cielo, Rojo']
+202307171721;Prueba;Nuevo Collage;['deporte (2).png'];Deportes
+202307171721;Prueba;Nuevo Meme;Panico/Calma (3 Textos);te cambian la nota, fue un error, te corrigen solo una
+202307191338;Gretoide;Modifico su perfil;;
+202307191339;Gretoide;Modificacion de imagen previamente clasificada;deporte (4).png;['Paracaidas', 'Cielo, Rojo']

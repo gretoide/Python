@@ -1,0 +1,44 @@
+[
+    {
+        "Alias": "Gretoide",
+        "Nombre": "Gretoidesasxasxas",
+        "Fecha de nacimiento": "2023-07-19",
+        "Sexo": "Masculino",
+        "Avatar": "carita_2.png"
+    },
+    {
+        "Alias": "Agus",
+        "Nombre": "Agus",
+        "Fecha de nacimiento": "1999-01-22",
+        "Sexo": "Masculino",
+        "Avatar": "letter-a.png"
+    },
+    {
+        "Alias": "Adri",
+        "Nombre": "Adrian",
+        "Fecha de nacimiento": "2023-06-07",
+        "Sexo": "Masculino",
+        "Avatar": "letter-a.png"
+    },
+    {
+        "Alias": "Emma",
+        "Nombre": "Emanuel",
+        "Fecha de nacimiento": "2023-06-07",
+        "Sexo": "Masculino",
+        "Avatar": "letter-e.png"
+    },
+    {
+        "Alias": "Clem",
+        "Nombre": "Clem",
+        "Fecha de nacimiento": "2023-06-05",
+        "Sexo": "Masculino",
+        "Avatar": "letter-c.png"
+    },
+    {
+        "Alias": "Prueba",
+        "Nombre": "Prueba",
+        "Fecha de nacimiento": "2023-07-10",
+        "Sexo": "Otro",
+        "Avatar": "pngwing.com.png"
+    }
+]

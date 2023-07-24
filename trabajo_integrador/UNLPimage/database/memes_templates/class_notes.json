@@ -1,0 +1,14 @@
+[
+    {
+        "image": "classes_notes.png",
+        "name": "Nota de Clase (1 Texto)",
+        "text_boxes": [
+            {
+                "top_left_x": 265,
+                "top_left_y": 317,
+                "bottom_right_x": 342,
+                "bottom_right_y": 389
+            }
+        ]
+    }
+]

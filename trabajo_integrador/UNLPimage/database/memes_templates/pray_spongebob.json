@@ -1,0 +1,14 @@
+[
+    {
+        "image": "pray_sponge.png",
+        "name": "Rezando (1 Texto)",
+        "text_boxes": [
+            {
+                "top_left_x": 280,
+                "top_left_y": 79,
+                "bottom_right_x": 431,
+                "bottom_right_y": 207
+            }
+        ]
+    }
+]

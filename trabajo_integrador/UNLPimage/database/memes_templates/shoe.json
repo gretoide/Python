@@ -1,0 +1,14 @@
+[
+    {
+        "image": "shoe.png",
+        "name": "Pisada (1 Texto)",
+        "text_boxes": [
+            {
+                "top_left_x": 120,
+                "top_left_y": 343,
+                "bottom_right_x": 313,
+                "bottom_right_y": 430
+            }
+        ]
+    }
+]

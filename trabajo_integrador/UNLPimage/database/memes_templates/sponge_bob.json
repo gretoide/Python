@@ -1,0 +1,14 @@
+[
+    {
+        "image": "sponge_bob.png",
+        "name": "Bob Esponja (1 Texto)",
+        "text_boxes": [
+            {
+                "top_left_x": 38,
+                "top_left_y": 53,
+                "bottom_right_x": 184,
+                "bottom_right_y": 208
+            }
+        ]
+    }
+]
